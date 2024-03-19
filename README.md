@@ -1,5 +1,5 @@
-#                             Henry Wyeth
-## Junior Software Developer     |     London, UK
+#                           Henry Wyeth
+## Junior Software Developer    |    London, UK
 
 
 ### Work
