@@ -6,9 +6,14 @@
 I’m currently working as a self-employed musician as part of the band Amber Run. That career offers me a great level of free time, which is why I'm looking to start a new career in another passion of mine: Software Development.
 
 ### Education
-I’m currently learning Python with HyperionDev and CoGrammar as part of the Software Engineer bootcamp. I also have a BA in Ancient History from the University of Nottingham.
+At present I am learning Python with HyperionDev and CoGrammar as part of the Software Engineer bootcamp. I also have a BA in Ancient History from the University of Nottingham.
+
+### Interests
+I'm particularly interested in the role software plays in helping us better understand data especially in the world of sports, and video game development.
 
 ### Contact Details:
+If you have any questions, please don't hesitate to get in touch.
+
 email: henry.wyeth@gmail.com
 
 <!--
