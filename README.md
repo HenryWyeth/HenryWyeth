@@ -1,6 +1,6 @@
-# Henry Wyeth
+# Henry Wyeth     ### London, UK
 ## Junior Software Developer
-### London, UK
+
 
 ### Work
 I’m currently working as a self-employed musician as part of the band Amber Run. That career offers me a great level of free time, which is why I'm looking to start a new career in another passion of mine: Software Development.
